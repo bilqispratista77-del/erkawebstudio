@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   keywords: ["jasa pembuatan website", "website bisnis", "website profesional", "landing page", "website UMKM", "website Indonesia", "jasa web"],
   authors: [{ name: "WebPro.id" }],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "/favicon.png",
   },
   openGraph: {
     title: "WebPro.id — Jasa Pembuatan Website Profesional",
