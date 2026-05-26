@@ -10,23 +10,23 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "WebPro.id — Jasa Pembuatan Website Profesional | Bisnismu Naik Level",
-  description: "Website bukan luksa, ini kebutuhan. Jasa pembuatan website profesional untuk bisnis Indonesia. Tampil profesional, customer lebih percaya, WhatsApp ramai orderan.",
-  keywords: ["jasa pembuatan website", "website bisnis", "website profesional", "landing page", "website UMKM", "website Indonesia", "jasa web"],
-  authors: [{ name: "WebPro.id" }],
+  title: "Erka Web Studio — Jasa Pembuatan Website Profesional | Tampil Beda, Hasil Nyata",
+  description: "Jasa pembuatan website profesional untuk segala bisnis Anda. Tampil beda, hasil nyata.",
+  keywords: ["jasa pembuatan website", "website bisnis", "website profesional", "landing page", "website UMKM", "website Indonesia", "jasa web", "erka web studio"],
+  authors: [{ name: "Erka Web Studio" }],
   icons: {
     icon: "/favicon.png",
   },
   openGraph: {
-    title: "WebPro.id — Jasa Pembuatan Website Profesional",
-    description: "Website bukan luksa, ini kebutuhan. Bisnismu tanpa website = customer lari ke kompetitor.",
-    siteName: "WebPro.id",
+    title: "Erka Web Studio — Jasa Pembuatan Website Profesional",
+    description: "Jasa pembuatan website profesional untuk segala bisnis Anda. Tampil beda, hasil nyata.",
+    siteName: "Erka Web Studio",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "WebPro.id — Jasa Pembuatan Website Profesional",
-    description: "Website bukan luksa, ini kebutuhan. Bisnismu tanpa website = customer lari ke kompetitor.",
+    title: "Erka Web Studio — Jasa Pembuatan Website Profesional",
+    description: "Jasa pembuatan website profesional untuk segala bisnis Anda. Tampil beda, hasil nyata.",
   },
 };
 
