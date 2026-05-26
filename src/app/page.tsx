@@ -1116,20 +1116,6 @@ export default function Home() {
         </span>
       </a>
 
-      {/* Temporary Download Button */}
-      <a
-        href="/erka-web-studio.tar.gz"
-        download
-        className="fixed bottom-6 left-6 z-50 flex items-center gap-2 bg-slate-800 hover:bg-slate-700 text-white px-4 py-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 group"
-      >
-        <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-          <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4" />
-          <polyline points="7 10 12 15 17 10" />
-          <line x1="12" y1="15" x2="12" y2="3" />
-        </svg>
-        <span className="text-sm font-medium">Download Project</span>
-      </a>
-
     </div>
   )
 }
